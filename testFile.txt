@@ -3,4 +3,4 @@ change again
 
 This is a merged change
 
-Change in local repo
+Change merged before push
