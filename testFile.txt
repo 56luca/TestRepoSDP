@@ -2,3 +2,5 @@ This is a text file for testing git commands
 change again
 
 This is a merged change
+
+Change in local repo
